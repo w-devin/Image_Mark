@@ -28,6 +28,8 @@ namespace Image_Mark
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.Image = img;
 
+            //to do 
+
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
