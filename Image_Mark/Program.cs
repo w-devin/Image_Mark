@@ -14,10 +14,12 @@ namespace Image_Mark
         [STAThread]
         static void Main()
         {
+            //init Init = new init();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             
         }
+
     }
 }
